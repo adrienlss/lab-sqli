@@ -1,0 +1,20 @@
+# Dépendances
+vendor/
+node_modules/
+
+# Environnement
+.env
+.env.*
+
+# Logs
+*.log
+
+# Docker
+*.pid
+docker-data/
+
+# OS / éditeur
+.DS_Store
+.idea/
+.vscode/
+
