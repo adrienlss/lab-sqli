@@ -17,4 +17,5 @@ Petit lab pédagogique pour travailler sur une injection SQL dans un formulaire 
 4. Accéder à `http://localhost:8080/index.php`.
 
 ## Statut
-⚠️ Travail en cours : docker-compose, scripts d’initialisation et documentation restent à finaliser avant la release v1.0.
+Travail en cours : docker-compose, scripts d’initialisation et documentation restent à finaliser avant la release v1.0.
+
