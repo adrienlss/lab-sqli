@@ -13,7 +13,7 @@ services:
       - db-data:/var/lib/mysql
       - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
   web:
-    image: php:8.1-apache
+    build: ./docker/web
     depends_on:
       - db
     restart: unless-stopped
