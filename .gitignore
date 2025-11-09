@@ -5,6 +5,7 @@ node_modules/
 # Environnement
 .env
 .env.*
+!.env.example
 
 # Logs
 *.log
